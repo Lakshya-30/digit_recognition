@@ -1,7 +1,3 @@
--------------------------------------- CS566 ASSIGNMENT 8------------------------------------------------
-NAME: Lakshya Onkara
-ROLL NO.: 210101062
-
 AIM: Digit Recognition
 EXECUTION: Build and run the code on Visual Studio 2010. Use F5 key to run the code.
 
